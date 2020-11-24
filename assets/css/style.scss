@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: beige;
+  color: black;
+}
+
+h1 {
+  color: black;
+}
+
+p {
+  color: black;
+}
+
+ul {
+list-style-position:inside;
+list-style: square;
+margin-left: 5px;
+    color: black;
+}
+
+li span {
+  position: relative;
+  left: -5px;
+}
