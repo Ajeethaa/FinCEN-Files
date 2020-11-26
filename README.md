@@ -67,7 +67,7 @@
 
 > The result? The highest total amount is about USD 2.7 billion that was transferred once in one day from Amsterdam Trade Bank NV, Netherlands to Rosbank in Russia. But one look at the chart tells us that the amount is only about a half of the highest total amount sent from Latvia. Latvia had a total of 2256 transactions totaling to a grand total of about 6 Billion dollars.
 
-![Transactions](images/transactions.png)
+![Transactions](images/transactions.png)  
 ***Top Originator vs Top Beneficiaries vs Top Amount***
 
 ## So, how much money really?
@@ -77,12 +77,12 @@
 
 > But I wanted to see the spread amongst the lower denominations. Charts below show just that. All denominations were plotted against the number of transactions.
 
- ![](images/millions&thousands.png)
+ ![](images/millions&thousands.png)  
 ***The distributions in millions and thousands***
 
 > As seen in charts above and below, the range in the transactions involving the  <ins>thousands</ins> but almost all have fewer than 25 transactions. Interestingly enough the transactions of <ins> hundreds</ins> and <ins>tens</ins> involved one transaction.
 
- ![](images/hundreds&tens.png)
+ ![](images/hundreds&tens.png)  
 ***The distributions in thousands and tens***
 
 ## Next...
