@@ -67,7 +67,7 @@
 
 > The result? The highest total amount is about USD 2.7 billion that was transferred once in one day from Amsterdam Trade Bank NV, Netherlands to Rosbank in Russia. But one look at the chart tells us that the amount is only about a half of the highest total amount sent from Latvia. Latvia had a total of 2256 transactions totaling to a grand total of about 6 Billion dollars.
 
-![Transactions](images/transactions.png)  
+![Transactions](images/Transactions.png)  
 ***Top Originator vs Top Beneficiaries vs Top Amount***
 
 ## So, how much money really?
