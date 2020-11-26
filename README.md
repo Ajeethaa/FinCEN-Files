@@ -1,4 +1,5 @@
 # FINCrime Files
+> An analysis of the released data on FinCrime Files transactions as depicted on the Suspicious Activity Reports (SARs)
 
 ## The Heroes
 > After months of painstaking investigations into leaked classified financial intelligence reports, [Buzzfeed News](‘https://www.buzzfeednews.com/article/jasonleopold/fincen-files-financial-scandal-criminal-networks’) and [The International Consortium of Investigative Journalists (‘ICIJ’)](‘https://www.icij.org/investigations/fincen-files/about-the-fincen-files-investigation/’) published in September 2020 their findings on how banks worldwide continued to launder money for drug cartels, crook politicians and so on. As this news gathered attention, it also came at no surprise to many working in this industry.
