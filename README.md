@@ -29,7 +29,8 @@
 
 > Henceforth, the transaction dataset will be refereed as **dataset1** and the connection dataset as **dataset2** for brevity. All amount quoted in the datasets is in the <ins>US dollars</ins>.
 
- ### The Basics
+### The Basics
+
  > I began my analysis by first getting the basics right. Dataset1 has a total of <ins>5498</ins> observations (rows) and <ins>16</ins> variables (columns) while the second dataset has <ins>4507</ins> observations and <ins>7</ins> variables. There are 123 observations with _none_ value and it means that these details were not on the SARs. A total of 119 countries were identified in the data.
 
  > Where do most transactions lie? The table shown below tells us that the maximum total amount is about 2.7 billion dollars! I have gone through the datasets to where and when it happened. More on this later.
